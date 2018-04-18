@@ -1,7 +1,6 @@
 {
   "name": "antd-issues",
   "version": "0.1.0",
-  "homepage": "/ant-issues",
   "private": true,
   "dependencies": {
     "antd": "^3.4.1",
